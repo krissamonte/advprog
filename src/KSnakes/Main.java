@@ -14,7 +14,7 @@ import java.util.logging.Logger;
  * @author kris
  */
 public class Main {
-   
+   //hello
     public static GameWindow g;
     public static void main(String[] args){
         g = new GameWindow();
